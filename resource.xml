@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Azure AD Sync, Delta</name>
+    <category>scripts</category>
+    <description>Forces Delta Azure AD Sync. Obv. only works on servers with Azure AD Sync installed.</description>
+    <uid>4165d735-f2f2-4cc9-8d48-664ba2b6457a</uid>
+    <hash />
+    <version>6</version>
+    <timeout>3600</timeout>
+    <securityLevel>5</securityLevel>
+    <installType>powershell</installType>
+  </general>
+</component>
